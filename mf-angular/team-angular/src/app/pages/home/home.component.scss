@@ -1,0 +1,12 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  border-bottom: 1px solid var(--navbar-border-color);
+}
+
+#content {
+  margin-top: 60px;
+}
